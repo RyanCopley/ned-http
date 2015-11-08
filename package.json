@@ -1,0 +1,21 @@
+{
+  "name": "ned-http",
+  "version": "1.0.0",
+  "description": "HTTP with secret backdoors so NED can read your requests",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyanCopley/ned-http.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Copley <npm@ryancopley.com> (http://github.com/RyanCopley)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RyanCopley/ned-http/issues"
+  },
+  "dependencies": {
+    "request": "^2.65.0"
+  }
+}
